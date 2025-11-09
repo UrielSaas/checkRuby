@@ -6,7 +6,7 @@
     "baseBranches": []
   },
   "scanSettingsSAST": {
-    "enableScan": false,
+    "enableScan": false, 
     "scanPullRequests": false,
     "incrementalScan": true,
     "baseBranches": [],
