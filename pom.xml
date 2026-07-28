@@ -14,7 +14,7 @@
 <dependency>
     <groupId>org.http4k</groupId>
     <artifactId>http4k-format-moshi</artifactId>
-    <version>4.40.1.0</version>
+    <version>5.13.4.0</version>
 </dependency>
 <!-- https://mvnrepository.com/artifact/org.http4k/http4k-connect-amazon-core -->
 <dependency>
